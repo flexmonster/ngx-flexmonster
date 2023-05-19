@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { NgxFlexmonsterComponent } from './ngx-flexmonster.component';
+import { FlexmonsterPivot } from './ngx-flexmonster.component';
 
 describe('NgxFlexmonsterComponent', () => {
-  let component: NgxFlexmonsterComponent;
-  let fixture: ComponentFixture<NgxFlexmonsterComponent>;
+  let component: FlexmonsterPivot;
+  let fixture: ComponentFixture<FlexmonsterPivot>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [NgxFlexmonsterComponent]
+      declarations: [FlexmonsterPivot]
     });
-    fixture = TestBed.createComponent(NgxFlexmonsterComponent);
+    fixture = TestBed.createComponent(FlexmonsterPivot);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

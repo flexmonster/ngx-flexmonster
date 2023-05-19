@@ -1,16 +1,13 @@
 import { NgModule } from '@angular/core';
-import { NgxFlexmonsterComponent } from './ngx-flexmonster.component';
+import { CommonModule } from '@angular/common';
 
-
+import { FlexmonsterPivot } from './ngx-flexmonster.component';
 
 @NgModule({
-  declarations: [
-    NgxFlexmonsterComponent
-  ],
   imports: [
+    CommonModule
   ],
-  exports: [
-    NgxFlexmonsterComponent
-  ]
+  declarations: [FlexmonsterPivot],
+  exports: [FlexmonsterPivot]
 })
-export class NgxFlexmonsterModule { }
+export class FlexmonsterPivotModule { }

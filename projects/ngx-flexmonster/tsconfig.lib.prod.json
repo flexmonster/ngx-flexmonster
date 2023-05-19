@@ -2,9 +2,16 @@
 {
   "extends": "./tsconfig.lib.json",
   "compilerOptions": {
-    "declarationMap": false
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
   },
   "angularCompilerOptions": {
     "compilationMode": "partial"
-  }
+  },
+  "exclude": [
+    "**/*.spec.ts"
+  ]
 }

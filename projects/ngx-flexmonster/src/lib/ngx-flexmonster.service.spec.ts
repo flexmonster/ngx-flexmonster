@@ -1,13 +1,13 @@
 import { TestBed } from '@angular/core/testing';
 
-import { NgxFlexmonsterService } from './ngx-flexmonster.service';
+import { FlexmonsterPivotService } from './ngx-flexmonster.service';
 
 describe('NgxFlexmonsterService', () => {
-  let service: NgxFlexmonsterService;
+  let service: FlexmonsterPivotService;
 
   beforeEach(() => {
     TestBed.configureTestingModule({});
-    service = TestBed.inject(NgxFlexmonsterService);
+    service = TestBed.inject(FlexmonsterPivotService);
   });
 
   it('should be created', () => {

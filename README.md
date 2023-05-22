@@ -1,27 +1,32 @@
-# NgxFlexmonster
+# Angular directive for Flexmonster Pivot Table & Charts
+[![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://flexmonster.com)
+Website: www.flexmonster.com
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+## Flexmonster Pivot Table & Charts
 
-## Development server
+Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources quickly and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This repository holds the TypeScript source code for using [Flexmonster Pivot](https://www.flexmonster.com/) in [Angular](https://angular.io/) applications. 
 
-## Code scaffolding
+* [Usage](#usage)
+* [Sample project](#sample-project)
+* [License](#license)
+* [Support & feedback](#support-feedback)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## <a name="usage"></a>Usage ##
 
-## Build
+Refer to [Flexmonster Integration with Angular](https://www.flexmonster.com/doc/integration-with-angular/) tutorial for details on the directive usage.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## <a name="sample-project"></a>Sample Project ##
 
-## Running unit tests
+See our [sample Angular project with Flexmonster](https://github.com/flexmonster/pivot-angular).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## <a name="license"></a>License ##
 
-## Running end-to-end tests
+Here is [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing/). We have free 30 day trial! 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Flexmonster Angular directive is released as a MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
 
-## Further help
+## <a name="support-feedback"></a>Support & feedback ##
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Please share your feedback or ask questions via [Flexmonster Help Center](https://www.flexmonster.com/help-center/).

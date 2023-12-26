@@ -1,4 +1,4 @@
-import { Component, ElementRef, Input, Output, EventEmitter, OnInit }  from '@angular/core';
+import { Component, ElementRef, Input, Output, EventEmitter, OnDestroy }  from '@angular/core';
 import * as Flexmonster from 'flexmonster';
 
 @Component({
@@ -6,7 +6,7 @@ import * as Flexmonster from 'flexmonster';
   template: '<div style="width:100%;height:100%;"><div class="fm-ng-wrapper"></div></div>',
   //providers: [FlexmonsterPivotService]
 })
-export class FlexmonsterPivot { // implements OnInit
+export class FlexmonsterPivot implements OnDestroy { // implements OnInit
   // params
   @Input() toolbar: boolean;
   @Input() licenseKey: string;
@@ -135,5 +135,12 @@ export class FlexmonsterPivot { // implements OnInit
       aftergriddraw: (event: Object) => this.aftergriddraw.next(event),
       afterchartdraw: () => this.afterchartdraw.next()
     });
+  }
+
+  ngOnDestroy(): void {
+      if (this.flexmonster) {
+          this.flexmonster.dispose();
+          this.flexmonster = null;
+      }
   }
 }

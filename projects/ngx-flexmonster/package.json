@@ -1,6 +1,6 @@
 {
   "name": "ngx-flexmonster",
-  "version": "2.9.95",
+  "version": "2.9.96",
   "description": "Angular 12+ Module for Flexmonster Pivot Table & Charts",
   "license": "MIT",
   "keywords": [
@@ -23,7 +23,7 @@
     "@angular/core": ">=12.0.0"
   },
   "dependencies": {
-    "flexmonster": "2.9.95"
+    "flexmonster": "2.9.96"
   },
   "sideEffects": false
 }

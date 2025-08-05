@@ -76,7 +76,6 @@ export class FlexmonsterPivot implements OnDestroy { // implements OnInit
   }
 
   ngOnInit() {
-    console.log(Flexmonster)
     this.flexmonster = new window.Flexmonster({
       container: this.root.getElementsByClassName('fm-ng-wrapper')[0],
       componentFolder: this.componentFolder,

@@ -83,7 +83,7 @@ export class FlexmonsterPivot implements OnDestroy { // implements OnInit
       width: this.width,
       height: this.height,
       toolbar: this.toolbar,
-      licenseKey: this.licenseKey,
+      licenseKey: this.licenseKey as string,
       licenseFilePath: this.licenseFilePath,
       report: this.report,
       global: this.global,

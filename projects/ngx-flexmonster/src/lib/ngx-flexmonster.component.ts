@@ -1,5 +1,6 @@
 import { Component, ElementRef, Input, Output, EventEmitter, OnDestroy }  from '@angular/core';
 import * as Flexmonster from 'flexmonster';
+const _ = Flexmonster; // Bundle the import for Angular compatibility. DO NOT REMOVE THIS LINE! 
 
 @Component({
   selector: 'fm-pivot',

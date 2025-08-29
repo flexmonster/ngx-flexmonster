@@ -40,7 +40,7 @@ Explore the available [methods and events](https://www.flexmonster.com/doc/using
 
 ## Sample project
 
-If you look for some reference examples, our team prepared a ready-to-use [Angular pivot grid sample project](https://github.com/flexmonster/pivot-angular?r=wrap_ang) with live demos of the most popular use cases. Visit the [Usage examples](https://www.flexmonster.com/doc/usage-examples-angular?r=wrap_ang) page to learn more about how the cases were implemented in an Angular project.
+If you look for some reference examples, our team prepared a ready-to-use [Angular pivot grid sample project](https://github.com/flexmonster/pivot-angular?r=wrap_ang) with live demos of the most popular use cases. Visit the [Usage examples](https://www.flexmonster.com/doc/usage-examples-angular?r=wrap_ang) page to see how the cases were implemented in an Angular project.
 
 In our documentation, you can find a [guide for the sample Angular application](https://www.flexmonster.com/doc/sample-angular-project?r=wrap_ang). There you can learn how to run it and what's inside.
 
@@ -53,7 +53,7 @@ To share your feedback or ask questions, contact our Tech team by raising a tick
 
 ## License
 
-Flexmonster Angular wrapper is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
+The Flexmonster Angular wrapper is released as an MIT-licensed (free and open-source) add-on to Flexmonster Pivot.
 
 To learn about Flexmonster Pivot licenses, visit the [Flexmonster licensing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?r=wrap_ang). 
 If you want to test our product, we provide a 30-day free trial.

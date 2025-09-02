@@ -12,7 +12,7 @@ Flexmonster Pivot Table & Charts is a powerful and fully customizable JavaScript
 
 This package is an Ivy-compatible [Flexmonster Pivot](https://www.flexmonster.com?r=wrap_ang) wrapper for [Angular](https://angular.io) applications.
 
-If your Angular is older than version 14, use [ng-flexmonster](https://www.npmjs.com/package/ng-flexmonster).
+If your Angular version is older than 14, use [ng-flexmonster](https://www.npmjs.com/package/ng-flexmonster).
 
 Table of contents:
 

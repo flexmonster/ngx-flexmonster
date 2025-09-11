@@ -49,13 +49,13 @@ In our documentation, you can also find a [guide for the sample Angular applicat
 
 In case of any issues, visit our [Troubleshooting](https://www.flexmonster.com/doc/typical-errors?r=wrap_ang) section. You can also search among the [resolved cases](https://www.flexmonster.com/technical-support?r=wrap_ang) for a solution to your issue.
 
-To share your feedback or ask questions, contact our Tech team by raising a ticket on our [Help Center](https://www.flexmonster.com/help-center?r=wrap_ang). You can also find a list of samples, technical specifications, and a user interface guide there.
+To share your feedback or ask questions, contact our Tech team by raising a ticket on our [Help Center](https://www.flexmonster.com/help-center/?r=wrap_ang). You can also find a list of samples, technical specifications, and a user interface guide there.
 
 ## License
 
 The Flexmonster Angular wrapper is distributed under the terms and conditions of the Flexmonster Software License Agreement: [https://www.flexmonster.com/software-license-agreement/](https://www.flexmonster.com/software-license-agreement/?r=wrap_ang).
 
-Flexmonster offers a 30-day free trial so you can evaluate our product. Pricing for commercial license models can be found on the [Flexmonster pricing page](https://www.flexmonster.com/pivot-table-editions-and-pricing?/r=wrap_ang).
+Flexmonster offers a 30-day free trial so you can evaluate our product. Pricing for commercial license models can be found on the [Flexmonster pricing page](https://www.flexmonster.com/pivot-table-editions-and-pricing/?r=wrap_ang).
 
 If you need any help with your license, fill out our [Contact form](https://www.flexmonster.com/contact-our-team/?r=wrap_ang), and we will get in touch with you.
 

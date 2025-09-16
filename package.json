@@ -1,7 +1,8 @@
 {
   "name": "ngx-flexmonster",
-  "version": "0.0.0",
-  "description": "Angular 14+ wrapper for Flexmonster Pivot Table and Charts",
+  "version": "2.9.112",
+  "description": "Angular wrapper for Flexmonster Pivot Table and Charts",
+  "license": "https://www.flexmonster.com/software-license-agreement/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve ngx-flexmonster-showcase",
@@ -12,7 +13,6 @@
     "test": "ng test",
     "package:lib": "npx ng-packagr -p projects/ngx-flexmonster/ng-package.json"
   },
-  "private": true,
   "dependencies": {
     "@angular/animations": "^14.0.0",
     "@angular/common": "^14.0.0",

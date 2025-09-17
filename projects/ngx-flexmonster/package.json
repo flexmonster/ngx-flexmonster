@@ -1,8 +1,8 @@
 {
   "name": "ngx-flexmonster",
   "version": "2.9.112",
-  "description": "Angular 12+ Module for Flexmonster Pivot Table & Charts",
-  "license": "MIT",
+  "description": "Angular wrapper for Flexmonster Pivot Table and Charts",
+  "license": "https://www.flexmonster.com/software-license-agreement/",
   "keywords": [
     "pivot",
     "html5",
@@ -13,11 +13,19 @@
     "pivotchart",
     "angular"
   ],
-  "private": false,
+  "author": {
+    "name": "Flexmonster",
+    "email": "help@flexmonster.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flexmonster/ngx-flexmonster.git"
+    "url": "https://github.com/flexmonster/ngx-flexmonster"
   },
+  "homepage": "https://flexmonster.com/",
+  "bugs": {
+    "url": "https://flexmonster.com/technical-support/"
+  },
+  "private": false,
   "peerDependencies": {
     "@angular/common": ">=12.0.0",
     "@angular/core": ">=12.0.0"

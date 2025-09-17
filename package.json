@@ -1,6 +1,5 @@
 {
   "name": "ngx-flexmonster",
-  "version": "2.9.112",
   "description": "Angular wrapper for Flexmonster Pivot Table and Charts",
   "license": "https://www.flexmonster.com/software-license-agreement/",
   "scripts": {
